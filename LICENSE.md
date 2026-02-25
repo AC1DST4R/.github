@@ -1,4 +1,4 @@
-# 📛 All Rights Reserved
+# All Rights Reserved
 
 Copyright (C) 2026 AC1DST4R
 
