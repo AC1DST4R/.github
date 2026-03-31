@@ -46,7 +46,6 @@ All my work is licensed under the **MIT License**. Please give credit if you use
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" title="C#"/></a>
 <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++"/></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git Bash" title="Git Bash"/></a>
-<a href="https://esolangs.org/wiki/Brainfuck"><img src="https://img.shields.io/badge/Brainfuck-%5B+%5D-lightgrey?style=for-the-badge" width="40" alt="Brainfuck" title="Brainfuck"/></a>
 <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" alt="Arch Linux" title="Arch Linux"/></a>
-<a href="https://linuxmint.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo.svg" width="40" alt="Linux Mint" title="Linux Mint"/></a>
+<a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40" alt="Linux" title="Linux"/></a>
 </p>
