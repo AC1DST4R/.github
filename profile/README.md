@@ -35,8 +35,10 @@ All my work is licensed under the **MIT License**. Please give credit if you use
 
 ## Code Languages & Technologies 💻
 
+## Code Languages & Technologies 💻
+
 <p align="center">
-<a href="https://www.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="40" alt="Amazon" title="Amazon"/></a>
+<a href="https://www.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="50" height="20" alt="Amazon" title="Amazon"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/></a>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/></a>
