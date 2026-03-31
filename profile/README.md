@@ -1,42 +1,52 @@
-# Hi! I'm AC1D 🚀
+# AC1DST4R
 
-Also known as ST4R by some, which is how I became **AC1DST4R** — the best of both worlds!  
+> "Endure, so you can endure more"  
+
+> Coding cool stuff, making it better, faster, and fun.  
 
 ---
 
 ## About Me 📝
-I handcode all projects (and sometimes take inspiration from ideas 😅), but everything is **recoded to be better, faster, or both**! ⬆️💨  
+I handcraft all my projects (or take inspiration from ideas I like) and recode them to be **cleaner, faster, and more fun to use**.  
+
+I enjoy building things that are simple, efficient, and just work.  
+
+**A few things I focus on:**  
+- Writing handcoded solutions with attention to detail  
+- Optimizing for performance and speed  
+- Exploring new languages and tech  
 
 ---
 
-## My Promises 🫡
-I promise:  
-- 🤖 **No AI**  
-- 💩 **No BS**  
-- 💵 **No advertisements EVER**  
+## My Promises
+
+Here’s what you won’t find in my projects:  
+-  AI-generated code  
+-  Unnecessary add ons
+-  Ads  
 
 ---
 
-## So… “Tf do you mean 'So nice to be back'”?  
-Due to a false DMCA copyright claim, I was temporarily banned from GitHub. Now I’m back with a **new account**! 🥹  
+## Note 
+
+I was temporarily off GitHub due to a false DMCA claim, but I’m **back and better than ever** with a fresh account and new projects!  
 
 ---
 
 ## Licensing
-All my work is licensed under the **MIT License**. Please give credit if you use or adapt my projects.  
+
+All my work is under the **MIT License** — you’re free to use it, just give credit where it’s due.  
 
 ---
 
-## My Linkies 🔗
-- **My Apps:** [AC1DST4R Apps](https://ac1dst4r.github.io/Apps/) – Updated with every new release 😁  
-- **Firefox Developer Account:** [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/user/19715107/)  
+## My Projects & Links 🔗
+
+- **Apps Portfolio:** [AC1DST4R Apps](https://ac1dst4r.github.io/Apps/) – updated with every new release  
+- **Firefox Developer Profile:** [Add-ons](https://addons.mozilla.org/en-US/firefox/user/19715107/)  
 
 ---
 
-## Code Languages & Technologies 💻
-
-## Code Languages & Technologies 💻
-## Code Languages & Technologies 💻
+## Code Languages & Tech 💻
 
 <p align="center">
 <a href="https://www.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="50" height="50" alt="Amazon" title="Amazon"/></a>
@@ -52,3 +62,15 @@ All my work is licensed under the **MIT License**. Please give credit if you use
 <a href="https://archlinux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40" height="40" alt="Arch Linux" title="Arch Linux"/></a>
 <a href="https://www.linux.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="40" height="40" alt="Linux" title="Linux"/></a>
 </p>
+
+---
+
+## Get in Touch
+
+I’m always open to chatting about projects, collaboration, or cool tech stuff:  
+- **GitHub:** [AC1DST4R](https://github.com/ac1dst4r)  
+- **Email:** [ac1dst4r.477@gmail.com](mailto:ac1dst4r.477@gmail.com)  
+
+---
+
+*Handcrafted with care, code, and a little bit of fun.*
