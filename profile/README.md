@@ -2,12 +2,12 @@
 
 > "Endure, so you can endure more"  
 
-> Coding cool stuff, making it better, faster, and fun.  
+> "I am no evil"
 
 ---
 
 ## About Me 📝
-I handcraft all my projects (or take inspiration from ideas I like) and recode them to be **cleaner, faster, and more fun to use**.  
+I handcraft all my projects (or take inspiration from ideas I like) and recode them to be **cleaner and faster** 
 
 I enjoy building things that are simple, efficient, and just work.  
 
@@ -41,7 +41,7 @@ All my work is under the **MIT License** — you’re free to use it, just give 
 
 ## My Projects & Links 🔗
 
-- **Apps Portfolio:** [AC1DST4R Apps](https://ac1dst4r.github.io/Apps/) – updated with every new release  
+- **Apps Portfolio:** [AC1DST4R Apps](https://ac1dst4r.github.io/) – updated with every new release  
 - **Firefox Developer Profile:** [Add-ons](https://addons.mozilla.org/en-US/firefox/user/19715107/)  
 
 ---
@@ -67,10 +67,9 @@ All my work is under the **MIT License** — you’re free to use it, just give 
 
 ## Get in Touch
 
-I’m always open to chatting about projects, collaboration, or cool tech stuff:  
+I’m always open to chatting about projects or collaboration.  
 - **GitHub:** [AC1DST4R](https://github.com/ac1dst4r)  
 - **Email:** [ac1dst4r.477@gmail.com](mailto:ac1dst4r.477@gmail.com)  
+- **Discord** [AC1DST4R](https://discord.com/users/983959813291659264)
 
 ---
-
-*Handcrafted with care, code, and a little bit of fun.*
