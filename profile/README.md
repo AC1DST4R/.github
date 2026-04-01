@@ -46,6 +46,17 @@ All my work is under the **MIT License** — you’re free to use it, just give 
 
 ---
 
+## My Development Teams
+
+- **Fated (IN DEVELOPMENT):** [FATED DISCORD](https://discord.com/invite/eS64prW4B3) Position: Head Admin / Lead Dev
+- **Befriend The Retroslop** [Befriend The Retroslop on Roblox](https://www.roblox.com/games/107483886418554/Befriend-the-Retroslop) Position: Scripter
+- **Dex's Party:** [Dex's Party on Roblox](https://www.roblox.com/games/95106319770962/Dexs-Party) Position: Scripter / Modeler 
+- **Corrupted Crossroad:** [Corrupted Crossroads on Roblox](https://www.roblox.com/games/105457570355541/Corrupted-Crossroads) Position: Scripter / Animator / Modeler
+- **Untitled Tag Game:** [UTG on Roblox](https://www.roblox.com/games/14044547200/untitled-tag-game) Position: Scripter / Animator
+
+
+---
+
 ## Code Languages & Tech 💻
 
 <p align="center">
