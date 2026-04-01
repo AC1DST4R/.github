@@ -69,7 +69,7 @@ All my work is under the **MIT License** — you’re free to use it, just give 
 
 I’m always open to chatting about projects or collaboration.  
 - **GitHub:** [AC1DST4R](https://github.com/ac1dst4r)  
-- **Email:** [ac1dst4r.477@gmail.com](mailto:ac1dst4r.477@gmail.com)  
+- **Email:** [ac1dst4r.447@gmail.com](mailto:ac1dst4r.447@gmail.com)  
 - **Discord** [AC1DST4R](https://discord.com/users/983959813291659264)
 
 ---
