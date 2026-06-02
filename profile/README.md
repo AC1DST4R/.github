@@ -46,9 +46,9 @@ All my work is under the **MIT License** — you’re free to use it, just give 
 
 ---
 
-## My Development Teams
+## Development Teams I'm In
 
-- **Fated (IN DEVELOPMENT):** [FATED DISCORD](https://discord.com/invite/eS64prW4B3) Position: Head Admin / Lead Dev
+- **Project Phoenix** [Project Phoenix Discord](https://discord.gg/bVeVur6TT) Position: Administrator Trainee
 - **Befriend The Retroslop** [Befriend The Retroslop on Roblox](https://www.roblox.com/games/107483886418554/Befriend-the-Retroslop) Position: Scripter
 
 ---
