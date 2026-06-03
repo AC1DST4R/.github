@@ -87,3 +87,7 @@ I’m always open to chatting about projects or collaboration.
 - **Discord** [AC1DST4R](https://discord.com/users/983959813291659264)
 
 ---
+
+## End Notes
+
+I AM **NOT** AC1DST4R on Tiktok and Instagram. Those are seperate parties who I am not associating myself with.
