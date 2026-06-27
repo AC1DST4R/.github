@@ -35,7 +35,7 @@ I was temporarily off GitHub due to a false DMCA claim, but I’m **back and bet
 
 ## Licensing
 
-All my work is under the **MIT License** — you’re free to use it, just give credit where it’s due.  
+All my work is under the **CC BY-SA** — you’re free to use it, download it, remix, and share it, but just give credit where it’s due and all copies must be free.  
 
 ---
 
