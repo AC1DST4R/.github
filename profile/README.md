@@ -41,14 +41,14 @@ All my work is under the **CC BY-SA / GPLv3** — you’re free to use it, downl
 
 ## My Projects & Links 🔗
 
-- **Apps Portfolio:** [AC1DST4R Apps](https://ac1dst4r.github.io/) – updated with every new release  
+- **Apps Portfolio:** [Apps](https://ac1dst4r.github.io/) – updated with every new release  
 - **Firefox Developer Profile:** [Add-ons](https://addons.mozilla.org/en-US/firefox/user/19715107/)  
 
 ---
 
 ## Development Teams I'm In
 
-- **Project Phoenix** [Project Phoenix Discord](https://discord.gg/bVeVur6TT) Position: Administrator Trainee
+- **Project Phoenix** [Project Phoenix Discord](https://discord.gg/bVeVur6TT) Position: Server Tech
 - **Befriend The Retroslop** [Befriend The Retroslop on Roblox](https://www.roblox.com/games/107483886418554/Befriend-the-Retroslop) Position: Scripter
 
 ---
