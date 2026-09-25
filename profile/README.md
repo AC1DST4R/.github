@@ -1,12 +1,11 @@
 # AC1DST4R
-
-> "Endure, so you can endure more"  
-
-> "I am no evil"
+>> A High Profile Target, Armed and Dangerous.
+>> On Alleged terms with High Profile Target, ████████.
+>> Avoid at all costs.
 
 ---
 
-## About Me 📝
+## About Me 
 I handcraft all my projects (or take inspiration from ideas I like) and recode them to be **cleaner and faster** 
 
 I enjoy building things that are simple, efficient, and just work.  
