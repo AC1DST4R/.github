@@ -82,7 +82,10 @@ All my work is under the **CC BY-SA / GPLv3** — you’re free to use it, downl
 I’m always open to chatting about projects or collaboration.  
 - **GitHub:** [AC1DST4R](https://github.com/ac1dst4r)  
 - **Email:** [ac1dst4r.447@gmail.com](mailto:ac1dst4r.447@gmail.com)  
-- **Discord** [AC1DST4R](https://discord.com/users/983959813291659264)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=AC1DST4R&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views">
 
 ---
 
