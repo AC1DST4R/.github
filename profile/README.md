@@ -87,7 +87,7 @@ I’m always open to chatting about projects or collaboration.
 
 <img src="https://komarev.com/ghpvc/?username=AC1DST4R&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views">
 <img src="https://img.shields.io/badge/dynamic/json?label=REPOSITORIES&style=for-the-badge&color=red&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAC1DST4R" alt="Repositories">
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fac1dst4r.github.io%2Fcommits.json&style=for-the-badge" alt="Total Commits">
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fac1dst4r.github.io%2FGitHub-Stats%2Fcommits.json&style=for-the-badge" alt="Total Commits">
 
 ---
 
