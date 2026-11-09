@@ -1,3 +1,9 @@
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:000000,100:ffffff&text=AC1DST4R&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Digital%20Artist%20%7C%20Developer%20%7C%20Programmer&descAlignY=55&descSize=17&animation=fadeIn"
+  width="100%"
+  alt="AC1DST4R"
+/>
+
 # AC1DST4R
 
 > "I am no evil"
