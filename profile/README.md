@@ -45,7 +45,8 @@ All my work is under the **CC BY-SA / GPLv3** — you’re free to use it, downl
 
 ## My Projects & Links 🔗
 
-- **Apps Portfolio:** [Apps](https://ac1dst4r.github.io/) – updated with every new release  
+- **Apps Portfolio:** [Apps](https://ac1dst4r.github.io/Apps) – updated with every new release  
+- **Down Detector:** [Down Detector](https://ac1dst4r.github.io/Website-Down-Detector/)
 - **Firefox Developer Profile:** [Add-ons](https://addons.mozilla.org/en-US/firefox/user/19715107/)  
 
 ---
@@ -91,6 +92,16 @@ I’m always open to chatting about projects or collaboration.
 
 ---
 
+## My Accounts!
+
+- **Instagram** [@ac1d.st4r](https://www.instagram.com/ac1d.st4r/)
+- **TakeTakeTake (Chess)** [S4L1N3](https://taketaketake.com/users/S4L1N3)
+- **Chess.com** [AC1DST4R](https://www.chess.com/member/ac1dst4r)
+
+---
+
+## Stats
+
 <img src="https://komarev.com/ghpvc/?username=AC1DST4R&style=for-the-badge&color=red&label=PROFILE+VIEWS" alt="Profile Views">
 <img src="https://img.shields.io/badge/dynamic/json?label=REPOSITORIES&style=for-the-badge&color=red&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAC1DST4R" alt="Repositories">
 <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fac1dst4r.github.io%2FGitHub-Stats%2Fcommits.json&style=for-the-badge" alt="Total Commits">
@@ -99,4 +110,6 @@ I’m always open to chatting about projects or collaboration.
 
 ## End Notes
 
-I AM **NOT** AC1DST4R on Tiktok and Instagram. Those are seperate parties who I am not associating myself with.
+I AM **NOT** AC1DST4R on Tiktok. This is a separate party who I am not associating myself with.
+
+
